@@ -1,0 +1,13 @@
+"""
+📌 Instruction
+Write a code snippet that calculates the sum of the digits of 123434565 without using sum().
+"""
+
+def sumChiffre(chiffre):
+    chiffres: list[str] = list(str(chiffre))
+    leNombre: int = 0
+    for chiffre in chiffres:
+        leNombre += int(chiffre)
+    return leNombre
+
+print(sumChiffre(123434565))
