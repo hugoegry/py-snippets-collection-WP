@@ -1,0 +1,12 @@
+"""
+📌 Instruction
+Write a code snippet that extracts the integer part of the following numbers:
+- 12.24
+- 424242.8
+"""
+
+a = 12.24
+b = 424242.8
+
+print(int(a))
+print(int(b))
