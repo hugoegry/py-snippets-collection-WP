@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hugo",
+    "score": 2000,
+    "attempts": 20,
+    "penalties": 0,
+    "date": "2025-09-18T08:23:00Z"
+  },
+  {
+    "name": "hello",
+    "score": 1030,
+    "attempts": 4,
+    "penalties": 0,
+    "date": "2025-09-18T09:46:19Z"
+  },
+  {
+    "name": "Loic",
+    "score": 950,
+    "attempts": 8,
+    "penalties": 1,
+    "date": "2025-09-18T15:42:00Z"
+  },
+  {
+    "name": "Rewann",
+    "score": 800,
+    "attempts": 12,
+    "penalties": 2,
+    "date": "2025-09-18T15:45:00Z"
+  }
+]
