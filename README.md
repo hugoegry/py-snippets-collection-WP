@@ -17,4 +17,14 @@ Each snippet is self-contained and focuses on demonstrating a concept, solving a
 This repo is intentionally eclectic — it's a playground, not a framework.  
 Use the snippets as inspiration, adapt them to your needs, and don’t hesitate to improve them.  
 
+
 ---
+
+<!--
+{
+  "haveSubReadMe": true,
+  "authorVerified": false,
+  "experimentalMode": "enabled",
+  "lastUpdate": "2025-09-20"
+}
+-->
