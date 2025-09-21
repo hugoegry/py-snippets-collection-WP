@@ -21,10 +21,43 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
 ---
 
 <!--
-{
-  "haveSubReadMe": true,
-  "authorVerified": false,
-  "experimentalMode": "enabled",
-  "lastUpdate": "2025-09-20"
-}
+[
+  {
+    "name": "haveSubReadMe",
+    "desc": "true",
+    "link": "",
+    "preview": {
+      "p1": "",
+      "p2": ""
+    }
+  },
+  {
+    "name": "authorVerified",
+    "desc": "false",
+    "link": "",
+    "preview": {
+      "p1": "",
+      "p2": ""
+    }
+  },
+  {
+    "name": "experimentalMode",
+    "desc": "enabled",
+    "link": "",
+    "preview": {
+      "p1": "",
+      "p2": ""
+    }
+  },
+  {
+    "name": "lastUpdate",
+    "desc": "2025-09-20",
+    "link": "",
+    "preview": {
+      "p1": "",
+      "p2": ""
+    }
+  }
+]
 -->
+
