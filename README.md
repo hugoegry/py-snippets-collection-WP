@@ -28,14 +28,8 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
     "date": "2025-09-18T15:42:00Z",
     "link": "",
     "preview": {
-      "p1": {
-        "name": "hangGameImg1",
-        "ex": "jpg"
-      },
-      "p2": {
-        "name": "hangGameImg2",
-        "ex": "jpg"
-      }
+      "p1": { "name": "hangGameImg1", "ex": "jpg" },
+      "p2": { "name": "hangGameImg2", "ex": "jpg" }
     }
   },
   {
@@ -44,13 +38,12 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
     "date": "2025-09-12T15:42:00Z",
     "link": "",
     "preview": {
-      "p1": {
-        "name": "languageDetector1",
-        "ex": "jpg"
-      }
+      "p1": { "name": "languageDetector1", "ex": "jpg" },
+      "p2": { "name": "", "ex": "" }
     }
   }
 ]
 -->
+
 
 
