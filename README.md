@@ -23,41 +23,32 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
 <!--
 [
   {
-    "name": "haveSubReadMe",
-    "desc": "true",
-    "link": "",
+    "name": "Python HangGame mini games",
+    "desc": "A simple and effective hangman game in Python. Guess the word before the hangman is complete, with error handling, progressive display and guaranteed fun !",
+    "date": "2025-09-18T15:42:00Z"
+    "link": "https://github.com/hugoegry/py-snippets-collection-WP/tree/main/part09_hangmanChallengeEvolution/hangGameEvolution",
     "preview": {
-      "p1": "",
-      "p2": ""
+      "p1": {
+        "name": "hangGameImg1",
+        "ex": "jpg"
+      },
+      "p2": {
+        "name": "hangGameImg2",
+        "ex": "jpg"
+      }
     }
   },
   {
-    "name": "authorVerified",
-    "desc": "false",
-    "link": "",
+    "name": "Python Language Detector",
+    "desc": "A smart Python script that automatically identifies the language of a text.",
+    "date": "2025-09-12T15:42:00Z"
+    "link": "https://github.com/hugoegry/py-snippets-collection-WP/blob/main/part03/exo3.5.py",
     "preview": {
-      "p1": "",
-      "p2": ""
-    }
-  },
-  {
-    "name": "experimentalMode",
-    "desc": "enabled",
-    "link": "",
-    "preview": {
-      "p1": "",
-      "p2": ""
-    }
-  },
-  {
-    "name": "lastUpdate",
-    "desc": "2025-09-20",
-    "link": "",
-    "preview": {
-      "p1": "",
-      "p2": ""
+      "p1": {
+        "name": "languageDetector1",
+        "ex": "jpg"
+      }
     }
   }
 ]
 -->
-
