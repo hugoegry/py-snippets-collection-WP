@@ -25,7 +25,7 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
   {
     "name": "Python HangGame mini games",
     "desc": "A simple and effective hangman game in Python. Guess the word before the hangman is complete, with error handling, progressive display and guaranteed fun !",
-    "date": "2025-09-18T15:42:00Z"
+    "date": "2025-09-18T15:42:00Z",
     "link": "https://github.com/hugoegry/py-snippets-collection-WP/tree/main/part09_hangmanChallengeEvolution/hangGameEvolution",
     "preview": {
       "p1": {
@@ -41,7 +41,7 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
   {
     "name": "Python Language Detector",
     "desc": "A smart Python script that automatically identifies the language of a text.",
-    "date": "2025-09-12T15:42:00Z"
+    "date": "2025-09-12T15:42:00Z",
     "link": "https://github.com/hugoegry/py-snippets-collection-WP/blob/main/part03/exo3.5.py",
     "preview": {
       "p1": {
