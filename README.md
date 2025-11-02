@@ -32,11 +32,11 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
     },
     "preview": {
       "p1": {
-        "name": "hangGameImg1",
+        "name": "miniatureHangManGamePython",
         "ex": "jpg"
       },
       "p2": {
-        "name": "hangGameImg2",
+        "name": "hangGameImg1",
         "ex": "jpg"
       }
     }
@@ -58,5 +58,6 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
   }
 ]
 -->
+
 
 
