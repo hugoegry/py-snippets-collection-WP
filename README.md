@@ -20,7 +20,7 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
 
 ---
 
-<!--
+<!--HEG_GIT_HUB_API
 [
   {
     "name": "Python HangGame mini games",
@@ -58,6 +58,7 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
   }
 ]
 -->
+
 
 
 
