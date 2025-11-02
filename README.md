@@ -24,7 +24,7 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
 [
   {
     "name": "Python HangGame mini games",
-    "desc": "A simple and effective hangman game in Python. Guess the word before the hangman is complete, with error handling, progressive display and guaranteed fun !",
+    "desc": "A simple and effective hangman game in Python. Guess the word before the hangman is complete, with error handling, progressive display and guaranteed fun !!",
     "date": "2025-09-18T15:42:00Z",
     "link": {
       "codeReview": "https://github.com/hugoegry/py-snippets-collection-WP/tree/main/part09_hangmanChallengeEvolution/hangGameEvolution",
@@ -58,6 +58,7 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
   }
 ]
 -->
+
 
 
 
