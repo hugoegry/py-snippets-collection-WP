@@ -51,11 +51,12 @@ Use the snippets as inspiration, adapt them to your needs, and don’t hesitate 
     },
     "preview": {
       "p1": {
-        "name": "languageDetector1",
+        "name": "miniatureLanguageDetectorPython",
         "ex": "jpg"
       }
     }
   }
 ]
 -->
+
 
